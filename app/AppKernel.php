@@ -7,7 +7,7 @@ class AppKernel extends Kernel
 {
     public function init() {
         // Change timezone
-        date_default_timezone_set('America/Caracas');
+        date_default_timezone_set('America/Los_Angeles');
 
         parent::init();
     }

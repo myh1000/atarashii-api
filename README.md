@@ -1,6 +1,8 @@
 Atarashii MAL API
 =================
 
+I didn't change much just some settings here and there. Just needed it to be hosted somewhere.
+
 This software is an unofficial API for the MyAnimeList website built on the
 Symfony PHP framework.
 
